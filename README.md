@@ -1,2 +1,2 @@
 # studyLog
-This repositorywill record daily learning records
+This repository will record daily learning records
